@@ -1,0 +1,1 @@
+ast简单还原了一下b站11月新加的反爬措施userLogStr, webglStr, webglVendorAndRenderer三个参数的算法
